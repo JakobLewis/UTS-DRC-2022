@@ -1,5 +1,5 @@
 """
-    Used for performance profiling. 
+    Used for performance profiling and recording, try 'python benchmark.py --help' for more info.
 """
 
 from time import time
