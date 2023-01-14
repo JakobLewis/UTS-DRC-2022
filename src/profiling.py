@@ -78,6 +78,7 @@ def __print_result() -> None:
         - average duration
         - 95% percentile duration
         - total calls
+    Functions which were registered but never called are listed at the end.
     """ 
 
     results = []
